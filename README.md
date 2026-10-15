@@ -27,7 +27,7 @@ Everything is permission-gated by in-game rank (R1–R5), so officers see what t
 | 🏆 **Season Hub** | Season lifecycle, rankings, participation, contribution tracking and reward tiers |
 | 📬 **Alliance Communications** | Reusable mail and announcement templates with a variable system, plus polls |
 | ⚖️ **Member Accountability** | Tags, a hybrid strike system, excused absences and no-show tracking |
-| 🚂 **Train Tracker** | Eligibility rule engine, conductor log and rotation fairness |
+| 🚂 **Train Tracker** | Eligibility rule engine, conductor log and officer-only historic train/guest allocation overview |
 | 📁 **Alliance Files** | Live collaborative document editing, image hosting and tagged file storage |
 | 📸 **Smart OCR Extraction** | Read rankings straight from game screenshots — cloud (Cloud Vision) or a local, no-dependency backend |
 | 🌐 **Inline Translation** | Translate a single member-written note in place, without translating the whole page |
